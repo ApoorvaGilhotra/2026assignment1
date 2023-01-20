@@ -7,4 +7,4 @@ for number in range(low,high+1):
                 print(end="")
                 break
         else:
-            print(number
+            print(number)
