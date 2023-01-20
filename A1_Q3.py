@@ -1,3 +1,4 @@
+
 t=int(input())
 for i in range(0,t):
    
@@ -11,5 +12,6 @@ for i in range(0,t):
         else:
             print("prime")
     elif(n==1):
-        print("not prime")
+        print("prime")
+
                  
